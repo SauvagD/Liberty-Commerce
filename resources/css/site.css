@@ -1,0 +1,95 @@
+* /*important*/
+{
+	margin: 0;
+	padding: 0;
+}
+html, body /*important*/
+{
+	background-color: white;
+	height: 100%;
+
+}
+body
+{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	background-image: url(../images/fond2.jpg);
+	background-size: 100%;
+}
+h3{
+	text-align: center;
+}
+.conteneur /*important*/
+{
+	position: fixed;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	font-family: Bradley Hand, cursive;
+
+}
+.logo /*important*/
+{
+	width: 200px;
+position: absolute;
+left: 43%;
+}
+.facebook /*important*/
+{
+	width: 95px;
+}
+.twitter /*important*/
+{
+	margin-top: 12px;
+	width: 70px;
+}
+a /*important*/
+{
+	text-decoration:none;
+	color:white;
+}
+footer /*important*/
+{
+	width: 100%;
+	padding-bottom: 10px;
+	display: table-row;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+.reseaux /*important*/
+{
+	margin-left: 10px;
+	display: flex;
+}
+.text_reseaux /*important*/
+{
+margin-left: 10px;
+}
+p{
+	font:1em Tahoma, Geneva, sans-serif;
+color: white;
+}
+h3
+{
+	color: white;
+	font:1em Tahoma, Geneva, sans-serif;
+}
+.black
+{
+	color: white;
+}
+.first_paragraph
+{
+	padding-top: 40px;
+}
+.imag{
+	width: 50px;
+}
+.NAME{
+	display: flex;
+	flex-direction: row;
+}

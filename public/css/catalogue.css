@@ -1,0 +1,61 @@
+.container{
+  width: 100%;
+  height: 510px;
+  margin-top: 70px;
+display: flex;
+flex-wrap: wrap;
+overflow-y: scroll;
+}
+.bloc{
+  margin-left: 80px;
+  margin-top: 20px;
+}
+.produit{
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  width: 200px;
+  height: 200px;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+}
+.button2{
+  width: 100px;
+  height: 100%;
+  animation-name: button2;
+  animation: button2 50s infinite;
+  border: none;
+  padding: 8px 16px;
+  font-size: 15px;
+  border-bottom-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+
+}
+.button3{
+  width: 100px;
+  height: 100%;
+  animation-name: button3;
+  animation: button3 50s infinite;
+  border: none;
+  font-size: 15px;
+  border-bottom-right-radius: 25px;
+}
+.emptyCatalog{
+ position: absolute;
+ top: 350px;left: 630px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+.adminButton{
+  background-color: darkblue; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: impact;
+}

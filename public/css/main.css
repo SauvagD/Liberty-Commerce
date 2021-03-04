@@ -1,0 +1,54 @@
+.container{
+width: 75%;
+height: 500px;
+margin-top: 50px;
+margin-left: 300px;
+margin-right: 20px;
+overflow-y: scroll;
+}
+h1{
+    color: white;
+}
+.photo{
+width: 200px;
+height: 200px;
+}
+tr{
+    background-color: white;
+    opacity: 90%;
+}
+td{
+    width: 100px;
+    margin-left: 30px;
+    border: solid white;
+    text-align: center;
+}
+#produit{
+    width: 400px;
+}
+p{
+    color: black;
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    background-color: darkblue; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: impact;
+}
+.emptyCart{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 350px;
+}
+.sign{
+    color:white;
+}

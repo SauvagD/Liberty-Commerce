@@ -1,0 +1,50 @@
+
+.image{
+  width: 50%;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+  background-color: darkblue; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: impact;
+}
+.button2{
+  display: flex;
+  flex-direction: row;
+  color: black;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.bloc{
+  display: flex;
+  flex-direction: row;
+  margin-top: 150px;
+  margin-left: 75px;
+  margin-bottom: 150px;
+
+}
+.article1{
+  padding-left: 25px;
+  padding-top: 25px;
+margin-right: 70px;
+background-color: white;
+border: solid black 3px;
+width: 100%;
+}
+
+.select{
+  color: black;
+  padding: 5px 10px;
+  font-family: impact;
+}

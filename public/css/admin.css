@@ -1,0 +1,63 @@
+label{
+  color: lightblue;
+}
+.formulaire{
+  margin-top: 160px;
+  margin-left: 200px;
+  padding: 15px;
+  background-color: white;
+}
+.couleur{
+  width: 100px;
+  height: 100px;
+}
+.container{
+  margin-top: 100px;
+  position: absolute;
+  left: 43%;
+}
+.title{
+  font-style: bold;
+  font-size: 24px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+input{
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 4px;
+  width: 220px;
+  height: 32px;
+  border: none;
+  border-bottom: 1px solid #AAA;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  transition: 0.2s ease;
+}
+.file{
+  border: none;
+}
+button{
+  border: none;
+  padding: 16px 32px;
+  color: white;
+  background-color: #16a085;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+button:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+textarea{
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+.sign
+{
+  color: white;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 20px;
+}

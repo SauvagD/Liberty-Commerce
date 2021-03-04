@@ -1,0 +1,54 @@
+
+.test{
+  width: 600px;
+  height:400px;
+}
+.button{
+  display: flex;
+  flex-direction: row;
+  background-color: darkblue; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: impact;
+}
+.button2{
+  display: flex;
+  flex-direction: row;
+  color: black;
+  margin-top: 10px;
+  margin-right: 10px;
+  background-color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.bloc{
+  display: flex;
+  flex-direction: row;
+  margin: 100px;
+}
+.article1{
+  padding-left: 25px;
+  padding-top: 25px;
+margin-right: 70px;
+background-color: white;
+border: solid black 3px;
+width: 100%;
+}
+.quantité{
+  position:relative;
+  top: 150px;
+  margin-bottom: 10px;
+}
+p{
+  color: black;
+}
+.quantity_change{
+  display: flex;
+  flex-direction: column;
+}

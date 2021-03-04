@@ -1,0 +1,26 @@
+table, td {
+      border: 1px solid #333;
+      margin-top: 300px;
+      background-color: black;
+      color: white;
+      text-align: center;
+      margin-left: 400px;
+      margin-top: 200px;
+      width: auto;
+      border-radius: 10% / 50%;
+      font:1em Tahoma, Geneva, sans-serif;
+  }
+
+  table{
+  height: 350px;
+  }
+  td
+  {
+    	padding: 40px;
+    	border: solid 3px;
+    	border-color: yellow;
+  }
+  table
+  {
+  	padding: 50px;
+  }
